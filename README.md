@@ -1,4 +1,4 @@
-# Fintech-Website
+# WiseLedger
 
 ### Deskripsi Project
 
